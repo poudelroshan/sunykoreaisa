@@ -1,0 +1,7 @@
+/* changes to brand name */
+#brand-name {
+    color: #00cdff;
+    text-transform: uppercase;
+    font-family: 'Chewy', cursive;
+    font-size: 30px;
+}
